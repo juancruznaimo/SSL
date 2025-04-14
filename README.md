@@ -1,4 +1,3 @@
-# Repositorio Personal para Trabajos Individuales
 
 Este repositorio contiene las resoluciones de los trabajos individuales de la asignatura **Sintaxis y Semántica de los Lenguajes**.
 
